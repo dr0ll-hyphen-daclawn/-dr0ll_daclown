@@ -1,0 +1,28 @@
+{
+  "name": "dr0ll_daclown",
+  "version": "1.0.0",
+  "description": "gọi project này là một quả táo, vì nó có nhiều chất sir",
+  "main": "@dr0ll_daclown.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dr0ll-hyphen-daclawn/.dr0ll_daclown.git"
+  },
+  "keywords": [
+    "@dr0ll_daclown"
+  ],
+  "author": "Fong",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dr0ll-hyphen-daclawn/.dr0ll_daclown/issues"
+  },
+  "homepage": "https://github.com/dr0ll-hyphen-daclawn/.dr0ll_daclown#readme",
+  "dependencies": {
+    "discord.js": "^14.1.2",
+    "fb-chat-api": "github:ntkhang03/fb-chat-api",
+    "node-fetch": "^3.2.10"
+  }
+}
